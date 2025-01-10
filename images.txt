@@ -2,5 +2,5 @@
 #mysql:8.4.3
 rabbitmq:4-management
 rabbitmq:3-management
-jenkins/jenkins:lts-jdk17
+jenkins/jenkins
 portainer/portainer
