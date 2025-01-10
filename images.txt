@@ -3,4 +3,5 @@
 rabbitmq:4-management
 rabbitmq:3-management
 jenkins/jenkins
+jenkins/jenkins:lts-jdk17
 portainer/portainer
