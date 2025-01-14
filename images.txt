@@ -7,3 +7,5 @@ jenkins/jenkins:lts-jdk17
 portainer/portainer
 nextcloud
 hashicorp/consul
+elasticsearch:8.17.0
+elasticsearch:7.12.1
