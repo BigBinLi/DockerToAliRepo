@@ -12,3 +12,4 @@ elasticsearch:7.12.1
 kibana:7.12.1
 kibana:8.17.0
 186184848/documentserver
+gcpaas/dataroom:2.0.2
