@@ -14,3 +14,4 @@ kibana:8.17.0
 186184848/documentserver
 gcpaas/dataroom:2.0.2
 langgenius/dify-web:0.15.3
+langgenius/dify-api:0.15.3
