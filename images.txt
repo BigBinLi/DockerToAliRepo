@@ -39,4 +39,5 @@
 #docker.elastic.co/kibana/kibana:8.14.3
 #budtmo/docker-android:emulator_9.0
 #luyouxia/lyx
-gcpaas/dataroom
+#gcpaas/dataroom
+ghcr.io/huggingface/text-embeddings-inference:1.6
