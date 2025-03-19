@@ -41,4 +41,4 @@
 #luyouxia/lyx
 #gcpaas/dataroom
 #ghcr.io/huggingface/text-embeddings-inference:1.6
-xprobe/xinference
+xprobe/xinference:latest
